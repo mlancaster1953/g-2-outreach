@@ -11,9 +11,9 @@ This repository contains example python code and instructions for accessing the 
 ## Quick start
 
 1. Create and activate a Python environment (recommended)
-2. Install dependencies:
+2. Install Python dependencies:
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## Licensing
 The code in this repository is released under the MIT License. The accompanying example dataset in /data is provided under CC-BY 4.0.
