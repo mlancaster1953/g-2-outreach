@@ -15,3 +15,6 @@ This repository contains example python code and instructions for accessing the 
 
 pip install -r requirements.txt
 
+## Licensing
+The code in this repository is released under the MIT License. The accompanying example dataset in /data is provided under CC-BY 4.0.
+
